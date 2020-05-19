@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bloom-filter-visualizer/static/css/main.3f83b06b.chunk.css",
+    "main.js": "/bloom-filter-visualizer/static/js/main.d3505e9c.chunk.js",
+    "main.js.map": "/bloom-filter-visualizer/static/js/main.d3505e9c.chunk.js.map",
+    "runtime-main.js": "/bloom-filter-visualizer/static/js/runtime-main.268d31ed.js",
+    "runtime-main.js.map": "/bloom-filter-visualizer/static/js/runtime-main.268d31ed.js.map",
+    "static/js/2.f0f024d0.chunk.js": "/bloom-filter-visualizer/static/js/2.f0f024d0.chunk.js",
+    "static/js/2.f0f024d0.chunk.js.map": "/bloom-filter-visualizer/static/js/2.f0f024d0.chunk.js.map",
+    "index.html": "/bloom-filter-visualizer/index.html",
+    "precache-manifest.06600342c09766b02314f47951718a1e.js": "/bloom-filter-visualizer/precache-manifest.06600342c09766b02314f47951718a1e.js",
+    "service-worker.js": "/bloom-filter-visualizer/service-worker.js",
+    "static/css/main.3f83b06b.chunk.css.map": "/bloom-filter-visualizer/static/css/main.3f83b06b.chunk.css.map",
+    "static/js/2.f0f024d0.chunk.js.LICENSE.txt": "/bloom-filter-visualizer/static/js/2.f0f024d0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bloom-filter-visualizer/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.268d31ed.js",
+    "static/js/2.f0f024d0.chunk.js",
+    "static/css/main.3f83b06b.chunk.css",
+    "static/js/main.d3505e9c.chunk.js"
+  ]
+}
